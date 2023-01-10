@@ -1,7 +1,5 @@
 package day38_Inheritance.carTask;
 
-import day38_Inheritance.Car;
-
 public class Tesla extends Car {
 
     public Tesla( String model, int year, double price, String color, int miles) {
